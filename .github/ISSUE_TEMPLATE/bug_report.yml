@@ -1,0 +1,51 @@
+name: Bug report
+description: Report a reproducible import, OCR, match, export, or interface problem.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make shelf matching more reliable. Do not attach a private shelf photo or reading list unless you are comfortable publishing it.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - CSV or text import
+        - OCR
+        - Matching
+        - Export or persistence
+        - Accessibility or layout
+        - Build, test, or packaging
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Include steps and a small synthetic input where possible.
+      placeholder: |
+        1. Import this minimal CSV...
+        2. Use quick/shelf mode...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system
+      placeholder: Chromium 140, Windows 11
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe evidence
+      description: Paste non-sensitive OCR text, confidence, console output, or an anonymized synthetic fixture.

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.zip binary
+*.gz binary
+public/vendor/** linguist-vendored
+public/vendor/tesseract/core/*.wasm.js -diff
+public/vendor/tesseract/worker/*.js -diff
+public/vendor/tesseract/licenses/APACHE-2.0.txt -whitespace

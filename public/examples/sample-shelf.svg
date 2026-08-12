@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#d8d2c8"/>
+  <rect x="70" y="70" width="1460" height="860" rx="18" fill="#2b2926"/>
+  <rect x="110" y="110" width="160" height="740" rx="8" fill="#f0e5cd"/>
+  <g transform="translate(215 800) rotate(-90)" fill="#292722" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="42" font-weight="700">THE LEFT HAND OF DARKNESS</text>
+    <text x="0" y="45" font-size="24">URSULA K LE GUIN</text>
+  </g>
+  <rect x="280" y="150" width="122" height="700" rx="7" fill="#315b76"/>
+  <g transform="translate(358 795) rotate(-90)" fill="#f4f6f7" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="48" font-weight="700">KINDRED</text>
+    <text x="0" y="40" font-size="22">OCTAVIA E BUTLER</text>
+  </g>
+  <rect x="412" y="125" width="196" height="725" rx="8" fill="#a44a38"/>
+  <g transform="translate(548 798) rotate(-90)" fill="#fff7e8" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="43" font-weight="700">BRAIDING SWEETGRASS</text>
+    <text x="0" y="44" font-size="22">ROBIN WALL KIMMERER</text>
+  </g>
+  <rect x="618" y="180" width="142" height="670" rx="7" fill="#d6be59"/>
+  <g transform="translate(713 792) rotate(-90)" fill="#24231f" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="44" font-weight="700">THE ODYSSEY</text>
+    <text x="0" y="42" font-size="22">HOMER</text>
+  </g>
+  <rect x="770" y="105" width="174" height="745" rx="7" fill="#efece5"/>
+  <g transform="translate(888 797) rotate(-90)" fill="#252525" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="44" font-weight="700">THE FIFTH SEASON</text>
+    <text x="0" y="44" font-size="23">N K JEMISIN</text>
+  </g>
+  <rect x="954" y="145" width="130" height="705" rx="7" fill="#477052"/>
+  <g transform="translate(1038 795) rotate(-90)" fill="#f4f2e9" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="42" font-weight="700">MIDDLEMARCH</text>
+    <text x="0" y="40" font-size="22">GEORGE ELIOT</text>
+  </g>
+  <rect x="1094" y="130" width="154" height="720" rx="7" fill="#56395e"/>
+  <g transform="translate(1196 798) rotate(-90)" fill="#f5edf7" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="44" font-weight="700">PIRANESI</text>
+    <text x="0" y="42" font-size="22">SUSANNA CLARKE</text>
+  </g>
+  <rect x="1258" y="165" width="150" height="685" rx="7" fill="#c9794f"/>
+  <g transform="translate(1358 794) rotate(-90)" fill="#fff5eb" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="43" font-weight="700">THE SECRET GARDEN</text>
+    <text x="0" y="42" font-size="22">FRANCES H BURNETT</text>
+  </g>
+  <rect x="1418" y="205" width="72" height="645" rx="7" fill="#1d3f52"/>
+  <rect x="90" y="850" width="1420" height="34" rx="5" fill="#4a443d"/>
+</svg>

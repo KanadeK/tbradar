@@ -1,0 +1,28 @@
+name: Feature request
+description: Propose a focused improvement to the existing shelf-to-list workflow.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: User job
+      description: What should a reader be able to complete, and in what situation?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Example input and expected output
+      description: Prefer a synthetic shelf fragment, export header, or OCR text fixture.
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: Project boundaries
+      options:
+        - label: The feature can preserve local image processing and no-account use.
+          required: true
+        - label: The proposal includes a way to test the behavior.
+          required: true
