@@ -8,9 +8,9 @@ updates:
     groups:
       development-dependencies:
         dependency-type: development
-    # TypeScript major upgrades must move with the typescript-eslint peer range.
+    # Breaking major upgrades are reviewed manually; minor and patch updates stay automated.
     ignore:
-      - dependency-name: typescript
+      - dependency-name: "*"
         update-types:
           - version-update:semver-major
 
