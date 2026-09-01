@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@phosphor-icons/react": "2.1.10",
-    "papaparse": "5.5.4",
+    "papaparse": "5.7.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "tesseract.js": "7.0.0"
